@@ -13,6 +13,7 @@
 		E3C26DAE264B129200A89789 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C26DAC264B129200A89789 /* Main.storyboard */; };
 		E3C26DB0264B129B00A89789 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3C26DAF264B129B00A89789 /* Assets.xcassets */; };
 		E3C26DB3264B129B00A89789 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3C26DB1264B129B00A89789 /* LaunchScreen.storyboard */; };
+		E3C26DBB264B132100A89789 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E3C26DBA264B132100A89789 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E3C26DAF264B129B00A89789 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3C26DB2264B129B00A89789 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3C26DB4264B129B00A89789 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3C26DBA264B132100A89789 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		E3C26DA5264B129200A89789 /* benichan_04_icon */ = {
 			isa = PBXGroup;
 			children = (
+				E3C26DBA264B132100A89789 /* icon.png */,
 				E3C26DA6264B129200A89789 /* AppDelegate.swift */,
 				E3C26DA8264B129200A89789 /* SceneDelegate.swift */,
 				E3C26DAA264B129200A89789 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3C26DBB264B132100A89789 /* icon.png in Resources */,
 				E3C26DB3264B129B00A89789 /* LaunchScreen.storyboard in Resources */,
 				E3C26DB0264B129B00A89789 /* Assets.xcassets in Resources */,
 				E3C26DAE264B129200A89789 /* Main.storyboard in Resources */,
